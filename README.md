@@ -21,6 +21,7 @@
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [License](#license)
+
 ## Synopsis
 The problem put forward was to design a very simple program that could calculate 
 withdrawls and deposits for bank accounts
